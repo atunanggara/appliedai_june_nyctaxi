@@ -3,3 +3,5 @@ holoviews==1.14.4
 panel==0.11.3
 colorcet==2.0.6
 tqdm==4.61.0
+datashader==0.12.1
+xarray==0.18.2
